@@ -1,5 +1,7 @@
 # Shortest-path-algorithm
 floyed and djikstra algorithm
+follow is the testing data
+
 4 8
 0 1 2
 0 2 6
